@@ -1,0 +1,22 @@
+{
+  "name": "dash-express",
+  "version": "1.0.0",
+  "description": "dashboard calling data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxayon/dash-express.git"
+  },
+  "author": "Maximo P. Nakpil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxayon/dash-express/issues"
+  },
+  "homepage": "https://github.com/mxayon/dash-express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

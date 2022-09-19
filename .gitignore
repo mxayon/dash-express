@@ -1,0 +1,16 @@
+.DS_Store
+
+*.csv
+*.dat
+*.out
+
+results
+build
+
+node_modules
+package-lock.json
+
+*.log
+*.gz
+
+.env
